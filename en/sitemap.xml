@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://guerrout.esi.dz/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://guerrout.esi.dz/fr/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://guerrout.esi.dz/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://guerrout.esi.dz/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://guerrout.esi.dz/fr/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://guerrout.esi.dz/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://guerrout.esi.dz/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://guerrout.esi.dz/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://guerrout.esi.dz/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://guerrout.esi.dz/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://guerrout.esi.dz/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://guerrout.esi.dz/tags/"
+                />
+  </url>
+  
+</urlset>
