@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>El-Hachemi Guerrout</title>
-    <link>https://yassinecherief.com/elhachemi-website/</link>
+    <link>https://guerrout.esi.dz/</link>
     <description>Recent content on El-Hachemi Guerrout</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language><atom:link href="https://yassinecherief.com/elhachemi-website/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr-fr</language><atom:link href="https://guerrout.esi.dz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title># whoami</title>
-      <link>https://yassinecherief.com/elhachemi-website/about/</link>
+      <link>https://guerrout.esi.dz/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://yassinecherief.com/elhachemi-website/about/</guid>
+      <guid>https://guerrout.esi.dz/about/</guid>
       <description>I am El-Hachemi Guerrout, Professor at the Higher School of Computer Science ESI and also a member of the LMCS laboratory at ESI.</description>
     </item>
     
     <item>
       <title>Contact Details</title>
-      <link>https://yassinecherief.com/elhachemi-website/contact/</link>
+      <link>https://guerrout.esi.dz/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://yassinecherief.com/elhachemi-website/contact/</guid>
+      <guid>https://guerrout.esi.dz/contact/</guid>
       <description>You can find below my contact details and important links:
  LinkedIn: My LinkedIn Porfile Google Scholar: My google scholar Slideshare: My Presentations Youtube Channel: My Youtube channel  You can contact me using this email</description>
     </item>
